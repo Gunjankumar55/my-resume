@@ -5,7 +5,7 @@ Welcome! This repository contains my **latest professional resume**. Feel free t
 ## 🔗 Quick Links
 
 - 📥 [Download Resume (PDF)](./resume.pdf)
-- 🌐 [View Resume on GitHub](https://github.com/gunjankumar55/resume/blob/main/resume.pdf)
+- 🌐 [View Resume on GitHub](https://gunjankumar55.github.io/my-resume/resume.pdf)
 - 💼 [Visit My Portfolio Website](https://gunjankumar55.github.io/Gunjan_Portfolio/)
 
 ## 🚀 About Me
