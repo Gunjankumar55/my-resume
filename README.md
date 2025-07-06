@@ -1,19 +1,30 @@
 # 📄 My Resume
 
-Welcome! This repository contains my **latest professional resume**. Feel free to view or download it.
+Welcome! This repository contains my **latest professional resume**.  
+Feel free to view it online or download it.
+
+---
 
 ## 🔗 Quick Links
 
 - 📥 [Download Resume (PDF)](./resume.pdf)
 - 🌐 [View Resume on GitHub](https://gunjankumar55.github.io/my-resume/resume.pdf)
-- 💼 [Visit My Portfolio Website](https://gunjankumar55.github.io/Gunjan_Portfolio/)
+- 💼 [Visit My Portfolio](https://gunjankumar55.github.io/Gunjan_Portfolio/)
+
+---
 
 ## 🚀 About Me
 
-Hi, I’m **[Gunjankumar Choudhari]** — a passionate developer focused on building modern, scalable applications with clean design and performance in mind. I'm constantly learning and love contributing to impactful projects.
+Hi, I’m **Gunjankumar Choudhari** — a passionate developer focused on building intelligent and scalable systems using modern tools and clean design.  
+I'm currently pursuing a B.Tech in Computer Engineering (Data Science) and actively exploring ML, cloud, and full-stack technologies.
 
-### 🧰 Tech Stack
+---
+
+## 🧰 Tech Stack
+
 ```bash
-Languages: Python, JavaScript, Dart, Java  
-Frameworks: Flutter, React, Node.js  
-Tools: Git, Firebase, Figma, Docker
+Languages: Python, Java, C, HTML, CSS, JavaScript, SQL  
+Frameworks: Flask, Flutter, TensorFlow  
+Databases: MySQL, MongoDB  
+Tools: Git, Power BI, Docker, Figma, VS Code, Jupyter  
+Cloud: AWS, Oracle Cloud, Azure
