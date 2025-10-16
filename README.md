@@ -23,8 +23,9 @@ I'm currently pursuing a B.Tech in Computer Engineering (Data Science) and activ
 ## 🧰 Tech Stack
 
 ```bash
-Languages: Python, Java, C, HTML, CSS, JavaScript, SQL  
-Frameworks: Flask, Flutter, TensorFlow  
-Databases: MySQL, MongoDB  
-Tools: Git, Power BI, Docker, Figma, VS Code, Jupyter  
-Cloud: AWS, Oracle Cloud, Azure
+Languages:      Java, Python, C, SQL, NoSQL
+Frameworks:     TensorFlow, Flask
+Databases:      MySQL, MongoDB
+Tools:          Git, Github, Power BI, Postman
+Technologies:   Machine Learning, AI, Deep Learning, OOPS
+Cloud:          AWS (IAM, EC2, S3, Lambda), Azure
